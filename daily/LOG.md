@@ -1,4 +1,4 @@
 Daily log
 
 DD/MM/YYYY
-12/11/2025 Euclidean division
+12/11/2025 Euclidean Division (HARDER THAN I THOUGHT)
