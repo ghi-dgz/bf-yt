@@ -13,6 +13,7 @@ uhhhhhhhhhhh if you do decide to use it then good luck
 - slightly more complicated games
 - quine
 - converting formatting types, string manipulation, actually do stuff (idk data related)
+- morse encode decode
 
 ## Hard
 
@@ -20,3 +21,11 @@ uhhhhhhhhhhh if you do decide to use it then good luck
 - Chess
 - Checkers
 - AI/Algorithms
+- tic tac toe with ai
+- packages and stuff
+- http requests ???
+- SOUND????
+- IMAgE GERNATION?????
+- WEBSITES?????????????????
+- APPLICATION?????????????????
+- data manipulation and saving
