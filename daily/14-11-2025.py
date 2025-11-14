@@ -1,14 +1,18 @@
-# GOLFER
+a = 3
+b = 5
+c = 1
+d = 0
 
-def naive_golfer(strig):
-    outp = ""
-    for char in strig:
-        count = ord(char)
-        outp += count * "+"
-        outp += ".>"
-    return outp
+while c != 0:
+    a -= 1
+    b -= 1
+    d += 1
+    if a == 0 or b == 0:
+        c = 0
 
-def good_golfer(strig):
-    pass
+if a != 0:
+    c = a
+else:
+    c = b
 
-print(naive_golfer("uwu"))
+print(c)

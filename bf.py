@@ -5,7 +5,7 @@ def bf(code, input_tape, input_auto_zero, num_zeros=4, ascii=False):
     tape = [0] * num_zeros
     tickerpos = 0
     added_zeroes = 0
-    last_print = "input"
+    last_print = "output"
     def_steps = 0
     debug_steps = 0
 
