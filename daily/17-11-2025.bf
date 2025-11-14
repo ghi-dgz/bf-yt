@@ -15,7 +15,8 @@ dot minus plus
 DO YOU IUNDERSTAND HOW MUCH THIS CONFUSED ME OH MY DAYS
 >,
 [
->><<<
+<
+
 >[->+>+<<]>[-<+>]+
 [<-<->[-<<+<+>>>]<<[->>+<<]<[>>>>[-]++<<<<[-]]>>[-<+<+>>]<<[->>+<<]>[>>>+<<<[-]]>>>--]
 <
