@@ -7,6 +7,7 @@ uhhhhhhhhhhh if you do decide to use it then good luck
 
 - calculator
 - simple games
+- art
 
 ## Medium
 

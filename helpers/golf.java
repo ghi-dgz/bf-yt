@@ -1,3 +1,5 @@
+// https://codegolf.stackexchange.com/questions/5418/brainf-golfer/5440#5440
+
 import java.io.*;
 
 class shortbf {

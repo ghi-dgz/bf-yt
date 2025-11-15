@@ -9,3 +9,6 @@ DD/MM/YYYY
 16/11/2025 simple golfer in bf 
 17/11/2025 complex golfer in bf https://codegolf.stackexchange.com/questions/5418/brainf-golfer/5440#5440
 18/11/2025 decimal inputs
+19/11/2025 number guessing game 
+20/11/2025 ngg cont.
+21/11/2025 formatting ngg

@@ -1,6 +1,6 @@
 import time
 import sys
-def bf(code, input_tape, input_auto_zero, num_zeros=4, ascii=False):
+def bf(code, input_tape, input_auto_zero, num_zeros=1, ascii=False):
     input_read_pos = 0
     tape = [0] * num_zeros
     tickerpos = 0
